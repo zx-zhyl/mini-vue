@@ -1,0 +1,14 @@
+
+/dist
+/build
+
+# dependencies
+/node_modules
+/npm-debug.log*
+/yarn-error.log
+/yarn.lock
+/package-lock.json
+
+#coverage // jest测试报告
+/.history
+/coverage
